@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM311: Intercultural Communication"
+course_description: "This course is designed to help you identify how to become a better communicator in these sorts of cross-cultural situations. You will learn about barriers to successful communication that involve cultural differences. You will also learn more about your own communication style and how it can be developed to facilitate more successful intercultural encounters."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Communication among Cultures** <span id="1"></span> 
 *As you have surely experienced many times, communication between
 members of the same culture can be challenging and can often be hampered

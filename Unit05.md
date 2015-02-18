@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM311: Intercultural Communication"
+course_description: "This course is designed to help you identify how to become a better communicator in these sorts of cross-cultural situations. You will learn about barriers to successful communication that involve cultural differences. You will also learn more about your own communication style and how it can be developed to facilitate more successful intercultural encounters."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Intercultural Communication Competence in the Workplace**
 <span id="5"></span> 
 *Innovation has always played an important role in business.  In
