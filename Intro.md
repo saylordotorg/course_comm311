@@ -136,4 +136,11 @@ can sit down with your calendar and decide to complete sub-subunits
 1.1.3 (a total of 2.75 hours) on Tuesday night; sub-subunits 1.1.4 and
 1.1.5 (a total of 4.25 hours) on Wednesday night; etc.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/comm311/Unit01/)
+- [Unit 2](https://legacy.saylor.org/comm311/Unit02/)
+- [Unit 3](https://legacy.saylor.org/comm311/Unit03/)
+- [Unit 4](https://legacy.saylor.org/comm311/Unit04/)
+- [Unit 5](https://legacy.saylor.org/comm311/Unit05/)
+- [Unit 6](https://legacy.saylor.org/comm311/Unit06/)
