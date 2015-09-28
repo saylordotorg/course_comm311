@@ -154,3 +154,4 @@ can sit down with your calendar and decide to complete sub-subunits
 - [Unit 4](https://legacy.saylor.org/comm311/Unit04/)
 - [Unit 5](https://legacy.saylor.org/comm311/Unit05/)
 - [Unit 6](https://legacy.saylor.org/comm311/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/COMM/COMM311/COMM311-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/COMM/COMM311/COMM311-FinalExam-Answers.html)
