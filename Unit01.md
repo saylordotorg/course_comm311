@@ -94,7 +94,7 @@ Upon successful completion of this unit, the student will be able to:
     Inequality”**
     Link: *Sociology: Understanding and Changing the Social World
     (Comprehensive Edition)*: [“Chapter 8: Gender and Gender
-    Inequality”](http://www.saylor.org/site/textbooks/Sociology,%20Understanding%20and%20Changing%20the%20Social%20World.pdf)
+    Inequality”](https://resources.saylor.org/archived/textbooks/Sociology,%20Understanding%20and%20Changing%20the%20Social%20World.pdf)
     (PDF)  
       
      Instructions: Read Chapter 8, starting on page 352, to learn about
@@ -403,7 +403,7 @@ id="1.2"></span> 
     Stereotypes, Prejudice, and Discrimination”**
     Link: *Principles of Social Psychology*: [“Chapter 12: Stereotypes,
     Prejudice, and
-    Discrimination”](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
+    Discrimination”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read Chapter 12,
