@@ -99,7 +99,7 @@ id="2.2"></span> 
     Understanding Culture”**
     Link: *Leading with Cultural Intelligence*: [“Chapter 2:
     Understanding
-    Culture”](https://resources.saylor.org/archived/textbooks/Leading%20with%20Cultural%20Intelligence.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Leading%20with%20Cultural%20Intelligence.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read chapter 2 in
