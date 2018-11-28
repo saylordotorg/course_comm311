@@ -35,7 +35,7 @@ id="5.1"></span> 
     Intercultural and International Business Communication”**
     Link: *Business Communication for Success*: [“Chapter 18:
     Intercultural and International Business
-    Communication”](https://resources.saylor.org/archived/textbooks/Business%20Communication%20for%20Success.pdf)
+    Communication”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Business%20Communication%20for%20Success.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read chapter 18. 
@@ -134,7 +134,7 @@ id="5.3"></span> 
     Culturally Intelligent Leadership Matters”**
     Link: *Leading with Cultural Intelligence*: [“Chapter 1:  Culturally
     Intelligent Leadership
-    Matters”](https://resources.saylor.org/archived/textbooks/Leading%20with%20Cultural%20Intelligence.pdf)
+    Matters”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Leading%20with%20Cultural%20Intelligence.pdf)
     (PDF)  
       
      Instructions: Please click on the link above, and read chapter 1. 
@@ -159,7 +159,7 @@ id="5.3"></span> 
     Cultural Intelligence in Action”**
     Link: *Leading with Cultural Intelligence*: [“Chapter 7: Cultural
     Intelligence in
-    Action”](https://resources.saylor.org/archived/textbooks/Leading%20with%20Cultural%20Intelligence.pdf) (PDF)  
+    Action”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Leading%20with%20Cultural%20Intelligence.pdf) (PDF)  
       
      Instructions:  Please click on the link above and read chapter 7. 
     This chapter has several case studies of cultural intelligence that
@@ -228,7 +228,7 @@ id="5.3"></span> 
     Office: Discrimination, Victimization, and Affirmative Action”**
     Link: *The Business Ethics Workshop*: [“Chapter 10: The Tense
     Office: Discrimination, Victimization, and Affirmative
-    Action”](https://resources.saylor.org/archived/textbooks/The%20Business%20Ethics%20Workshop.pdf#page=428)
+    Action”](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Business%20Ethics%20Workshop.pdf#page=428)
     (HTML)  
       
      Instructions:  Please click on the link above and read chapter 10

@@ -81,7 +81,7 @@ computer.
  √    Be competent in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -100,11 +100,11 @@ you. The course makes primary use of the following materials:
 
 -   [*Sociology: Understanding and Changing the Social World
     (Comprehensive
-    Edition)*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Edition)*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
 -   [*Principles of Social
-    Psychology*](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)
+    Psychology*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
 -   [*Leading with Cultural
-    Intelligence*](https://resources.saylor.org/archived/textbooks/Leading%20with%20Cultural%20Intelligence.pdf)
+    Intelligence*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Leading%20with%20Cultural%20Intelligence.pdf)
 -   Lee Hopkins’ [Better Communication
     Results](http://leehopkins.com/articles-on-organizational-communication.html)
     Articles
